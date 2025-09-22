@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sportcardapp-dev-7f26c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::084719917676:role/amplify-sportcardapp-dev-7f26c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::084719917676:role/amplify-sportcardapp-dev-7f26c-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-sportcardapp-dev-7f26c-deployment",
+      "UnauthRoleName": "amplify-sportcardapp-dev-7f26c-unauthRole",
+      "StackName": "amplify-sportcardapp-dev-7f26c",
+      "StackId": "arn:aws:cloudformation:us-east-1:084719917676:stack/amplify-sportcardapp-dev-7f26c/c98bd4a0-95bc-11f0-bc6f-0affea15a0df",
+      "AmplifyAppId": "d1xf4fniu1trez"
+    }
+  }
+}
